@@ -21,3 +21,5 @@ collections:
   episodes:
     output: true
     permalink: /:name/
+
+theme: jekyll-theme-minimal
